@@ -52,6 +52,12 @@ High interoperability
 Supports service exposure and invocation
 Scalability through statelessness (REST)
 
+Weaknesses:
+Performance overhead, especially with SOAP
+Complex implementation (particularly SOAP-based)
+Latency issues with remote calls
+
+
 
 
 
