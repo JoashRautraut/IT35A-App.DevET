@@ -42,5 +42,16 @@ Verbose syntax leads to large file sizes
 Parsing can be computationally expensive
 Lacks inherent data semantics
 
+Web Services
+
+Purpose: Web Services enable system interaction over a network, often using XML or JSON for communication. They support service-oriented architectures (SOA) and are typically
+based on SOAP or REST protocols.
+
+Strengths:
+High interoperability
+Supports service exposure and invocation
+Scalability through statelessness (REST)
+
+
 
 
