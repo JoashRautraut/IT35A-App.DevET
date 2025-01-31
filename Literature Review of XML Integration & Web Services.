@@ -37,4 +37,10 @@ Platform-neutral
 Human-readable
 Extensible and widely supported
 
+Weaknesses:
+Verbose syntax leads to large file sizes
+Parsing can be computationally expensive
+Lacks inherent data semantics
+
+
 
