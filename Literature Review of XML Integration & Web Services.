@@ -64,6 +64,25 @@ Performance: XML can suffer from size and parsing overhead, while Web Services, 
 Interoperability: Both XML and Web Services offer high interoperability, with Web Services additionally providing a standardized way for remote systems to interact.
 
 
+Conclusion
+XML Integration is ideal for simple data exchange, while Web Services are better suited for complex, distributed systems requiring service interaction. They can complement each other,
+with XML serving as the data format for Web Services.
+
+References:
+A systematic literature review on web service clustering approaches to enhance service discovery, selection and recommendation:
+https://www.sciencedirect.com/science/article/abs/pii/S157401372200034X
+
+A Study of Heterogeneous Database Integration Based on Web Service and XML:
+https://www.researchgate.net/publication/361731743_A_Study_of_Heterogeneous_Database_Integration_Based_on_Web_Service_and_XML
+
+Automated and Effective Testing of Web Services for XML Injection Vulnerabilities: 
+https://dl.acm.org/doi/10.1145/2931037.2931042?
+
+Literature Review on XML Security and Access Control to XML Documents:
+https://www.academia.edu/27947656/Literature_Review_on_XML_Security_and_Access_Control_to_XML_Documents
+
+Review of SOA: Field Guide to Integrating XML and Web Services Book:
+https://s-bennett.com/2004/09/03/review-of-soa-field-guide-to-integrating-xml-and-web-services-book/
 
 
 
